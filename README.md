@@ -31,6 +31,8 @@ $ source env/Source/activate
 ```
 $ pip install -r requirements.txt
 ```
+- Run LSTM/app.py file
+  OR
 - Run index.py file
 
 ## Contact
